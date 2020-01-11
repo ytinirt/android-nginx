@@ -47,30 +47,5 @@ Run command to configure nginx core and libraries.
     --with-cc-opt=-Wno-sign-compare
 ```
 
-License
-====================
-
-The application released under [WTFPL]
-
-                DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                        Version 2, December 2004
-
-     Copyright (C) 2014 Naoki Takimura <n.takimura@gmail.com>
-
-     Everyone is permitted to copy and distribute verbatim or modified
-     copies of this license document, and changing it is allowed as long
-     as the name is changed.
-
-                DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-       TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-      0. You just DO WHAT THE FUCK YOU WANT TO.
-
-Nginx's license is not [WTFPL].
-Check its license in http://nginx.org/LICENSE .
-
-
 [developers.android.com]: http://developer.android.com/tools/sdk/ndk/index.html
 [nginx]: http://nginx.com/
-[WTFPL]: http://www.wtfpl.net/
-[nginx-license]: http://nginx.org/LICENSE
